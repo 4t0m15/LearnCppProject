@@ -1,0 +1,3 @@
+C:/Users/arsen/AppData/Local/JetBrains/CLion2024.3/demo/LearnCppProject/cmake-build-debug/CMakeFiles/welcome.dir
+C:/Users/arsen/AppData/Local/JetBrains/CLion2024.3/demo/LearnCppProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arsen/AppData/Local/JetBrains/CLion2024.3/demo/LearnCppProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
